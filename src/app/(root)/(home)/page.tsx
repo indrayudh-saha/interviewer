@@ -36,7 +36,7 @@ export default function Home() {
     }
   };
 
-  if (isLoading) return <p>loading...</p>;
+  if (isLoading) return <LoaderUI/>;
 
   return (
     <div className="container max-w-7xl mx-auto p-6">

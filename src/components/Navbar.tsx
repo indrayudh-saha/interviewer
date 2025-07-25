@@ -1,8 +1,8 @@
-import { SignedIn, UserButton } from "@clerk/nextjs";
-import { MessageSquareCode } from "lucide-react";
 import Link from "next/link";
-import DasboardBtn from "./DasboardBtn";
 import { ModeToggle } from "./ModeToggle";
+import { CodeIcon } from "lucide-react";
+import { SignedIn, UserButton } from "@clerk/nextjs";
+import DasboardBtn from "./DasboardBtn";
 
 function Navbar() {
   return (
@@ -13,9 +13,9 @@ function Navbar() {
           href="/"
           className="flex items-center gap-2 font-semibold text-2xl mr-6 font-mono hover:opacity-80 transition-opacity"
         >
-          <MessageSquareCode  className="size-8 text-blue-500" />
-          <span className="bg-gradient-to-r from-blue-500 to-blue-600 bg-clip-text text-transparent">
-            Interviewer
+          <CodeIcon className="size-8 text-emerald-500" />
+          <span className="bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent">
+            CodeSync
           </span>
         </Link>
 

@@ -43,7 +43,7 @@ export default function Home() {
       {/* WELCOME SECTION */}
       <div className="rounded-lg bg-card p-6 border shadow-sm mb-10">
         <h1 className="text-4xl font-bold bg-gradient-to-r from-emerald-600 to-teal-500 bg-clip-text text-transparent">
-          Welcome back!
+          Welcome 
         </h1>
         <p className="text-muted-foreground mt-2">
           {isInterviewer

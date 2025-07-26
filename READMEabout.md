@@ -4,7 +4,7 @@ Here’s your COMPLETE README for the Interviewer Platform, including proper Mar
 
 ## Overview
 
-**Interviewer Platform** is a robust, full-stack web application for hosting and managing live or mock technical/HR interviews. Built with nextjs, clerk, convex, stream it provides secure, role-based login for both candidates and interviewers/admins, and is deployed on Vercel for quick global access.
+**Interviewer Platform** is a robust, full-stack web application for hosting and managing live or mock technical/HR interviews. Built with nextjs, tailwind css, typescript clerk, convex, stream it provides secure, role-based login for both candidates and interviewers/admins, and is deployed on Vercel for quick global access.
 
 - **Tech Stack:**  Next, clerk, stream , convex 
 - **Deployment:** Vercel  

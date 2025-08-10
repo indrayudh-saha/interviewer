@@ -8,7 +8,7 @@ Here’s your COMPLETE README for the Interviewer Platform, including proper Mar
 
 - **Tech Stack:**  Next, clerk, stream , convex 
 - **Deployment:** Vercel  
-- **Live Demo:** [interviewer-sigma-flax.vercel.app](https://interviewer-sigma-flax.vercel.app/)
+- **Live :** [interviewer-sigma-flax.vercel.app](https://interviewer-sigma-flax.vercel.app/)
 
 ## User Roles & Demo Logins
 
